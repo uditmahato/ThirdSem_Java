@@ -73,40 +73,7 @@ public class ArraylistDemo_System {
             ex = sc.next().charAt(0);
         }while (ex == 'y'|| ex == 'a' || ex == 'd' || ex == 'r');
 
-        System.out.println(Cyan + "Thank you for Purcashing from us.\n Hope you have a wonderful day! " + Smiley);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        //ArrayList <String>
-
-//        movies.add("Avengers");
-//        movies.get("accessing item");
-//        moviest.set(0, "Avengers end game"); change value at place;
-//
-//        movies.size(); movies.get(i);
-//
-//        movies.remove();
-//        Collection.sort(movies);    //ascending order
-//        Collection.sort(movies, Collection.reverseorder());    //ascending order
-//
-//
-//        for(String movie:movies){
-//            System.out.println(movie);
-//        }
-
-        //two list, one item list one price list, how many items, put price, print bill
-        //crude operation, do you want to add, delete, edit?
+        System.out.println(Cyan + "Thank you for purchasing from us.\n Hope you have a wonderful day! " + Smiley);
 
 
     }
